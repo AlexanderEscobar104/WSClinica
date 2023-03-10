@@ -1,1 +1,5 @@
 # WSClinica
+
+#ArchivoBD
+
+Clinica.bak
